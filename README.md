@@ -1,5 +1,5 @@
 # Sudoku_Solver
-This is a sudoku solver using a graphical GUI based on the backtracking algorithm.
+This is a sudoku solver using a graphical GUI. Visualize solving of the sudoku using backtracking algorithm.
 
 # Instructions
 Select a cell to enter a number.
